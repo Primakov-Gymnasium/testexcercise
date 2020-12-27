@@ -1,0 +1,5 @@
+Create file code.py
+Write a program with Python 3 that will print "Hello World" on screen
+Your code must only do this task
+Output autograding is used
+Code must meet PEP 8
